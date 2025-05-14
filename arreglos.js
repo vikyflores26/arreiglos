@@ -4,4 +4,7 @@ let primero = colores[0];
 let ultimo = colores[colores.length -1];
 console.log(ultimo);
 console.log (primero);
-colores.push ("naranja");
+colores.push("naranja")
+console.log(colores[colores.length -1]);
+
+
